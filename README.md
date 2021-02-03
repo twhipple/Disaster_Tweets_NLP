@@ -1,4 +1,4 @@
-# Disaster_Tweets_NLP
+# Disaster Tweets NLP
 
 
 ![picture1]()
@@ -7,16 +7,17 @@
 
 
 ## Intro
-This dataset comes from Kaggle Kernels. This dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’ website. The idea is to create a model using Natural Language Processing to determine if tweets from Twitter can be used to determine a real disaster from just regular tweets.
+A Natural Language Processing Model based on Twitter Tweets. This dataset comes from Kaggle Kernels. It was created by the company figure-eight and originally shared on their ‘Data For Everyone’ website. The idea is to create a model using Natural Language Processing to determine if messages from Twitter can be used to distinguish tweets about a real disaster from just regular, everyday tweets.
 
 
 ## README Outline
 * Introduction 
-* Project Summary
+* README Outline
 * Repo Contents
-* Prerequisites
+* Libraries and Prerequisites
 * Feature and Definitions
-* Results
+* Models
+* Conclusions
 * Future Work
 * Built With, Contributors, Authors, Acknowledgments
 
@@ -84,7 +85,6 @@ Columns
 
 
 
-
 ## Future Work
 
 
@@ -99,14 +99,18 @@ Jupyter Notebook
 Python 3.0
 scikit.learn
 
+
 ## Contributing
 Please read CONTRIBUTING.md for details
+
 
 ## Authors
 Thomas Whipple
 
+
 ## License
 Please read LICENSE.md for details
+
 
 ## Acknowledgments
 Kaggle - This dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’ website here.
