@@ -1,9 +1,10 @@
 # Disaster Tweets NLP
 
+## This REPO is still a work in progress!
 
-![picture1]()
+![picture1](https://raw.githubusercontent.com/twhipple/Disaster_Tweets_NLP/main/Images/michael-chacon-wRw3L6hwB2E-unsplash.jpg)
 
-*Disaster Photo Source: Author, Unsplash.com*
+*Forest fires wreaking havoc! Source: Michael Chacon, unsplash.com*
 
 
 ## Intro
@@ -22,9 +23,10 @@ A Natural Language Processing Model based on Twitter Tweets. This dataset comes 
 * Built With, Contributors, Authors, Acknowledgments
 
 
-![picture2]()
+![picture2](https://raw.githubusercontent.com/twhipple/Disaster_Tweets_NLP/main/Images/noaa-Zus94oboIsM-unsplash.jpg)
 
-*Another picture*
+*Tornado causing destruction. Source: Noaa Zus, Unsplash.com*
+
 
 
 ## Repo Contents
@@ -89,9 +91,9 @@ Columns
 
 
 
-![Picture3]()
+![Picture3](https://raw.githubusercontent.com/twhipple/Disaster_Tweets_NLP/main/Images/chris-gallagher-4zxp5vlmvnI-unsplash.jpg)
 
-*Picture Source: author, freeimages.com*
+*Flood disaster! Source: Chris Gallagher, unsplash.com*
 
 
 ## Built With:
