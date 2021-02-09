@@ -51,18 +51,10 @@ These are the libraries that I used in this project.
 * %matplotlib inline
 * import seaborn as sns
 
-* from sklearn.model_selection import train_test_split
-* from sklearn.preprocessing import StandardScaler
-
-* from sklearn.linear_model import LinearRegression
-* from  sklearn.svm import SVR
-* from sklearn.tree import DecisionTreeRegressor
-* from sklearn.neighbors import KNeighborsRegressor
-
-* import statsmodels.api as sm
-
-* from sklearn.metrics import mean_squared_error
-* from sklearn.model_selection import cross_val_score
+* import string, re
+* import nltk
+* from nltk import FreqDist, word_tokenize
+* from nltk.corpus import stopwords 
 
 
 
