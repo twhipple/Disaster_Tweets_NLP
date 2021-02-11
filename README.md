@@ -70,17 +70,18 @@ Columns
 
 
 ## Models
-
+Naive Bayes and Random Forest
 
 
 
 ## Conclusions
+I first tried to separate all the words in the text file, then get rid of numbers and symbols. Then I spent some time trying to get rid of the https links and all of the webpages. Finally I made all the words lowercase. I tried two different Tweet processing methods but neither of them worked - perhaps because the string of text had been changed to a list.
 
-
+Using the TfidfVectorizer along with my nltk cleaning that was somehow joined again to a string I was able to improve my testing accuracy for the Naive Bayes which went from 79.94% to 80.51%. The Random Forest testing accuracy also went up from 77.73% to 78.83%. Neither are great and both are only slight improvements, but nevertheless heading in the right direction. I still have some more cleaning issues to deal with - since a bunch of the word vectors seemed to be just letters.
 
 
 ## Future Work
-
+Still working on this... there is more to do!
 
 
 ![Picture3](https://raw.githubusercontent.com/twhipple/Disaster_Tweets_NLP/main/Images/chris-gallagher-4zxp5vlmvnI-unsplash.jpg)
